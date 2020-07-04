@@ -13,3 +13,5 @@
 
 * remove line comment=ctrl+q
 * add toggle comment =ctrl+q
+
+* press alt+ scrol the mouse to setup the editor size
