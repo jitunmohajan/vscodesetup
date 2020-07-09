@@ -15,3 +15,10 @@
 * add toggle comment =ctrl+q
 
 * press alt+ scrol the mouse to setup the editor size
+
+extensions>>
+* prettier 
+* bracket pair colorizer 
+* live server
+* git lens
+* javascript es6 code snippets
