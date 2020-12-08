@@ -22,3 +22,8 @@ extensions>>
 * live server
 * git lens
 * javascript es6 code snippets
+
+
+# Terminal setup>> settings/features/terminal/edit in setting.json
+
+https://code.visualstudio.com/docs/editor/integrated-terminal
