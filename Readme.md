@@ -22,6 +22,8 @@ extensions>>
 * live server
 * git lens
 * javascript es6 code snippets
+* Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, React
+
 
 
 # Terminal setup>> settings/features/terminal/edit in setting.json
