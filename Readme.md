@@ -30,3 +30,8 @@ extensions>>
 # Terminal setup>> settings/features/terminal/edit in setting.json
 
 https://code.visualstudio.com/docs/editor/integrated-terminal
+
+
+<img src="Screenshot (28)_LI.jpg" alt="Girl in a jacket" width="1000" height="600">
+
+<img src="Screenshot (30).png" alt="Girl in a jacket" width="1000" height="600">
