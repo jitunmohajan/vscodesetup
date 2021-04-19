@@ -1,11 +1,14 @@
 * install Meterial icon theme
 * go to setting than search  mouse wheel zoom and enable it
-* setting>minimap>enable/desable it        
+* setting>minimap>enable/desable it  
+* settings>>search "preview" on search bar>> uncheck Workbench>editor:Enable Preview    
+  
 # go to keyboard shortcut key
 * set duplicate selection=ctrl+d
 *  set add line comment =ctrl+shift+c
 * move line up=ctrl+up arrow
 * move line down=ctrl+down arrow
+
 
 
 *  ctrl+g =enter the line number what you wanted to edit
