@@ -1,7 +1,7 @@
-* install Meterial icon theme
-* go to setting than search  mouse wheel zoom and enable it
-* setting>minimap>enable/desable it  
-* settings>>search "preview" on search bar>> uncheck Workbench>editor:Enable Preview    
+>* install Meterial icon theme
+>* go to setting than search  mouse wheel zoom and enable it
+>* setting>minimap>enable/desable it  
+>* settings>>search "preview" on search bar>> uncheck Workbench>editor:Enable Preview    
   
 # go to keyboard shortcut key
 * set duplicate selection=ctrl+d
