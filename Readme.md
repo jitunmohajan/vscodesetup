@@ -1,3 +1,8 @@
+# [Bravo studio for making apps](https://www.bravostudio.app/)
+
+
+
+
 >* install Meterial icon theme
 >* go to setting than search  mouse wheel zoom and enable it
 >* setting>minimap>enable/desable it  
