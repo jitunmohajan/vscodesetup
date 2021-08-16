@@ -42,4 +42,8 @@ https://code.visualstudio.com/docs/editor/integrated-terminal
 
 <img src="Screenshot (28)_LI.jpg" alt="Girl in a jacket" width="1000" height="600">
 
+```
+ "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+```
+
 <img src="Screenshot (30).png" alt="Girl in a jacket" width="1000" height="600">
