@@ -39,6 +39,12 @@ extensions>>
 
 https://code.visualstudio.com/docs/editor/integrated-terminal
 
+copy this line>>
+```
+
+"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+
+```php
 
 <img src="Screenshot (28)_LI.jpg" alt="Girl in a jacket" width="1000" height="600">
 
