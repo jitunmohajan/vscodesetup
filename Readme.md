@@ -26,6 +26,7 @@
 * press alt+ scrol the mouse to setup the editor size
 
 extensions>>
+* Thunder Client  //this is for api testing
 * prettier 
 * bracket pair colorizer 
 * live server
