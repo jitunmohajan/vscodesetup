@@ -7,6 +7,7 @@
 >* go to setting than search  mouse wheel zoom and enable it
 >* setting>minimap>enable/desable it  
 >* settings>>search "preview" on search bar>> uncheck Workbench>editor:Enable Preview    
+>* if you open files using double click than previous file will not close  if you use single cllick than it will close the previous file if you you dont edit that file
   
 # go to keyboard shortcut key
 * set duplicate selection=ctrl+d
