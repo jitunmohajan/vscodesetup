@@ -35,6 +35,7 @@ extensions>>
 * javascript es6 code snippets
 * Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, React
 
+# easy Terminal setup>> use CTRL+ ` button open terminal than change select default profile into git
 
 
 # Terminal setup>> settings/features/terminal/edit in setting.json
