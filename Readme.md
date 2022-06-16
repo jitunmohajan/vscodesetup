@@ -14,8 +14,8 @@
 # go to keyboard shortcut key
 * set duplicate selection=ctrl+d
 *  set add line comment =ctrl+shift+c
-* move line up=ctrl+up arrow
-* move line down=ctrl+down arrow
+* move line up=alt+up arrow
+* move line down=alt+down arrow
 
 
 
