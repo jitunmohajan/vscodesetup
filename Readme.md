@@ -31,6 +31,7 @@
 extensions>>
 * Thunder Client  //this is for api testing
 * prettier 
+* Path Intellisense
 * bracket pair colorizer 
 * live server
 * git lens
