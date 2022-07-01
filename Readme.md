@@ -29,6 +29,7 @@
 * press alt+ scrol the mouse to setup the editor size
 
 extensions>>
+* IntelliSense for CSS class names in HTML
 * Thunder Client  //this is for api testing
 * prettier 
 * Path Intellisense
