@@ -2,6 +2,8 @@
 >>
 >>
 
+>* settings>format on save   than trun on it by checkbox
+
 >* setting>Editor: Mouse Wheel Zoom >>enable/desable it  so that you can zoom in and zoom out using ctrl+mouse scroll
 >* install CodeSnap for code screen shot 
 >* install Meterial icon theme
