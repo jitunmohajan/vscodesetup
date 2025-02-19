@@ -1,3 +1,5 @@
+## Import the file "jitun vscode.code-profile" from here on your vscode
+
 # [Bravo studio for making apps](https://www.bravostudio.app/)
 >>
 >>
@@ -44,9 +46,6 @@ extensions>>
 # easy Terminal setup>> use CTRL+ ` button open terminal than change select default profile into git
 
 
-# Terminal setup>> settings/features/terminal/edit in setting.json
-
-https://code.visualstudio.com/docs/editor/integrated-terminal
 
 
 
@@ -54,10 +53,5 @@ https://code.visualstudio.com/docs/editor/integrated-terminal
 
 
 
-<img src="Screenshot (28)_LI.jpg" alt="Girl in a jacket" width="1000" height="600">
 
-```
- "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-```
 
-<img src="Screenshot (30).png" alt="Girl in a jacket" width="1000" height="600">
